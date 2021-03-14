@@ -1,5 +1,4 @@
 ### Senior UI/UX Designer & Website Developer<br/>
-<br/>
 -Greetings 👋<br/>
 <br/>
 Based in Montana, I specialize in UX/UI design and development for Web and Mobile Apps. I’m here to help you by taking over the strategy, design, development and launch of your new idea so you can focus on other areas of your business. I have a proven record of launching successful web and mobile apps for my clients.<br/>
