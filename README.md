@@ -1,4 +1,4 @@
-### Top-notch UI/UX Designer&Developer<br/>
+### Top-notch UI/UX Designer & Website Developer<br/>
 <br/>
 -Greetings 👋<br/>
 <br/>
