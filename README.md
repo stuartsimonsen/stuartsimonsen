@@ -10,4 +10,5 @@ My accomplishments include:<br/>
 ✅ Projects with Harvard Medical Center, Indeed and UC Berkeley<br/>
 <br/>
 Interested in working with me? Shoot me a message and let’s see if we are a good fit for each other. Looking forward to hearing from you about your idea!
+
 ![Stuart's Github stats](https://github-readme-stats.vercel.app/api?username=stuartsimonsen&show_icons=true&theme=radical)
